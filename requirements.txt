@@ -1,0 +1,12 @@
+BeautifulSoup4
+fastapi
+gunicorn
+httptools
+line-bot-sdk
+pymongo[srv]
+python-dotenv
+pytz
+requests
+rich
+uvicorn
+uvloop
